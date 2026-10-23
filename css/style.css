@@ -624,3 +624,6 @@ footer {
   .tabs a { text-align: center; }
   .timeline-item { grid-template-columns: 1fr; gap: 4px; }
 }
+
+/* Goblin Tech credit */
+.goblin-tech-credit{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:8px;margin:18px 0 0;padding:14px 12px 0;color:var(--muted,#52616b);font-size:.85rem;line-height:1.5;text-align:center}.goblin-tech-credit img{display:block;width:32px;height:32px;object-fit:contain;flex:none;border-radius:50%}.goblin-tech-credit bdi{font-weight:600}
